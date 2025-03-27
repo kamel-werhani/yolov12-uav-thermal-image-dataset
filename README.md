@@ -1,6 +1,6 @@
-# **RT-DETR on UAV Thermal Image Dataset**
+# **YOLOv12 on UAV Thermal Image Dataset**
 
-his repository contains the implementation and training setup for **YOLOv12** on a **UAV-based thermal image dataset**. The goal is to fine-tune YOLOv12 for **thermal object detection** in aerial imagery.
+This repository contains the implementation and training setup for **YOLOv12** on a **UAV-based thermal image dataset**. The goal is to fine-tune YOLOv12 for **thermal object detection** in aerial imagery.
 
 
 ## **Table of Contents**  
@@ -38,6 +38,7 @@ The dataset consists of **thermal images captured by UAVs**, annotated with boun
     ├── Test Set/  
     │   ├── images/  
     │   ├── annotations/
+    ├── data.yaml/
 ```
 
 
